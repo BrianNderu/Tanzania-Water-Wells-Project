@@ -87,7 +87,8 @@ Iringa region has the most water wells with over 5000 wells followed by shinyang
 <img src="Images/Waterpoint per status group.png"/>
 
 *The KNN model can be used as it had an accuracy of 72%
-
+### Evaluation
+<img src="Images/confusion matrix.png"/>
 ### Limitation
 
 *More paramater tuning can be done on the knn model as adding more parameters affected the run time
